@@ -1,0 +1,89 @@
+"推特":{
+    "type": "image",
+    "name": "twemoji",
+    "container":[
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/smile.png\">",
+        "text": "微笑"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/tongue.png\">",
+        "text": "吐舌"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/tilted.png\">",
+        "text": "歪头"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/tiaomei.png\">",
+        "text": "挑眉"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/shy.png\">",
+        "text": "害羞"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/sweat.png\">",
+        "text": "流汗"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/proud.png\">",
+        "text": "得意"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/uncomfort.png\">",
+        "text": "难受"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/smilecry.png\">",
+        "text": "笑哭"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/love.png\">",
+        "text": "喜欢"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/notalk.png\">",
+        "text": "不说话"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/happy.png\">",
+        "text": "开心"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/frightened.png\">",
+        "text": "惊恐"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/dtongue.png\">",
+        "text": "吐舌"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/cry.png\">",
+        "text": "哭泣"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/cool.png\">",
+        "text": "炫酷"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/bigsmile.png\">",
+        "text": "红脸笑"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/ok.png\">",
+        "text": "可以"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/kiss.png\">",
+        "text": "亲亲"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/angry.png\">",
+        "text": "生气"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/family.png\">",
+        "text": "家庭"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/congratulate.png\">",
+        "text": "祝贺"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/gift.png\">",
+        "text": "礼物"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/prayer.png\">",
+        "text": "祈祷"
+      },{
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/twemoji/star.png\">",
+        "text": "星星"
+      }
+    ]
+  }

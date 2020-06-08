@@ -1,0 +1,162 @@
+{
+    
+    "阿鲁": {
+      "name": "aru",
+      "type": "image",
+      "container": [
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/despise.png\">",
+          "text": "鄙视"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/knife.png\">",
+          "text": "插刀"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/pouting.png\">",
+          "text": "亲嘴"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/shutup.png\">",
+          "text": "闭嘴"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/unhappy.png\">",
+          "text": "不开心"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/discovertruth.png\">",
+          "text": "发现真相"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/shit.png\">",
+          "text": "便便"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/distressed.png\">",
+          "text": "烦恼"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/shy.png\">",
+          "text": "捂脸"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/speechless.png\">",
+          "text": "无语"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/confuse.png\">",
+          "text": "迷惑"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/frown.png\">",
+          "text": "皱眉"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/proud.png\">",
+          "text": "得意"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/cheer.png\">",
+          "text": "欢呼"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/meditation.png\">",
+          "text": "沉思"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/diving.png\">",
+          "text": "潜水"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/cryingface.png\">",
+          "text": "掩面哭泣"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/lurking.png\">",
+          "text": "潜伏"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/thumb.png\">",
+          "text": "大拇指"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/smile.png\">",
+          "text": "微笑"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/clap.png\">",
+          "text": "拍掌"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/envious.png\">",
+          "text": "眼馋"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/surrender.png\">",
+          "text": "投降"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/bigeye.png\">",
+          "text": "大眼睛"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/nose.png\">",
+          "text": "抠鼻"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/sweat.png\">",
+          "text": "流汗"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/flower.png\">",
+          "text": "小花花"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/crying.png\">",
+          "text": "流泪"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/spit.png\">",
+          "text": "吐"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/surprised.png\">",
+          "text": "吃惊"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/blood.png\">",
+          "text": "一滩血"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/blood2.png\">",
+          "text": "吐血"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/shy2.png\">",
+          "text": "脸红"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/angry.png\">",
+          "text": "生气"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/nomatter.png\">",
+          "text": "无所谓"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/dead.png\">",
+          "text": "死翘翘"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/insidious.png\">",
+          "text": "阴险"
+        },
+        {
+          "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/aru/tongue.png\">",
+          "text": "吐舌"
+        }
+  
+      ]
+    }
+  }

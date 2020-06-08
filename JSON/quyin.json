@@ -1,0 +1,86 @@
+"蛆音娘": {
+    "name": "quyin",
+    "type": "image",
+    "container": [
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/hematemesis.png\">",
+          "text": "吐血"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/1huaji.png\">",
+          "text": "滑稽"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/amazing.png\">",
+          "text": "吃惊"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/angry.png\">",
+          "text": "生气"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/cry.png\">",
+          "text": "哭泣"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/die.png\">",
+          "text": "die"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/doubt.png\">",
+          "text": "疑问"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/feizao.png\">",
+          "text": "肥皂"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/fue.png\">",
+          "text": "扶额"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/heng.png\">",
+          "text": "哼"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/laughing.png\">",
+          "text": "大笑"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/look.png\">",
+          "text": "偷看"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/maimeng.png\">",
+          "text": "卖萌"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/OK.png\">",
+          "text": "OK！"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/scare.png\">",
+          "text": "吓死宝宝惹"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/shakinghead.png\">",
+          "text": "摇头"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/sleep.png\">",
+          "text": "睡觉"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/speechless.png\">",
+          "text": "无语"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/watermaleon.png\">",
+          "text": "吃瓜"
+      },
+      {
+        "icon": "<img src=\"//cdn.jsdelivr.net/gh/kaygb/OwO-images@master/OwO/emotion/quyin/witty.png\">",
+          "text": "机智"
+      }
+    ]
+  }
